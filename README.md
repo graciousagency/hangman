@@ -6,6 +6,13 @@ You are totally free to make this however you want, whatever framework you want,
 
 This test is just to show off your abilities and skills, so go nuts :)
 
+## Frontend developer
+If you're a frontend developer, just use whatever frontend technique(s) you want to create a simple Hangman game.
+You don't have to make the API, but if you really want to, you can for bonus points.
+
+## Backend developer
+Backend developers, just follow the requirements as specified below and impress us with your code.
+
 ## API endpoints
 
 ```
@@ -70,4 +77,7 @@ Example of an error message
 
 ## Docker
 
-Dockerizing this test with a working Dockerfile and docker-compose.yml will earn you some extra points, but this is _not_ required nor expected 
+Dockerizing this test with a working Dockerfile and docker-compose.yml will earn you some extra points, but this is _not_ required nor expected
+
+## (Bonus) points 
+Bonus points are fictional and do not have any meaning besides for your own ego and our admiration.
